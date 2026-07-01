@@ -1,5 +1,9 @@
 hello nani
+<<<<<<< HEAD
 
 Hello devops team
 
 Nnai team
+=======
+nani upte the sheet
+>>>>>>> 23b8e27e58ea6f614635df4e316e5fe1d1919e0b
