@@ -2,5 +2,10 @@ Hi swami
 can anyone show the perform
 anyway
 
+<<<<<<< Updated upstream
 
 jira 102 start 
+=======
+Jira 101 : 
+1.hi this is not important
+>>>>>>> Stashed changes
