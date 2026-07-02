@@ -1,5 +1,12 @@
+
 hello world
 
 String S=Hello"
 
+<<<<<<< HEAD
 String name :vendor
+=======
+String name ="Hello"
+string name ="nani"
+String change +"hello"
+>>>>>>> refs/remotes/origin/main
